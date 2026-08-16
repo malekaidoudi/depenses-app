@@ -7,7 +7,7 @@
   "theme_color": "#121214",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "https://img.icons8.com/fluent/180/wallet.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any maskable"
